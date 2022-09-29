@@ -1,0 +1,17 @@
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\bin\Debug\net6.0-windows\ScrollApp.exe
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\bin\Debug\net6.0-windows\ScrollApp.deps.json
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\bin\Debug\net6.0-windows\ScrollApp.runtimeconfig.json
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\bin\Debug\net6.0-windows\ScrollApp.dll
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\bin\Debug\net6.0-windows\ScrollApp.pdb
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\obj\Debug\net6.0-windows\ScrollApp.csproj.AssemblyReference.cache
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\obj\Debug\net6.0-windows\ScrollApp.Form1.resources
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\obj\Debug\net6.0-windows\ScrollApp.csproj.GenerateResource.cache
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\obj\Debug\net6.0-windows\ScrollApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\obj\Debug\net6.0-windows\ScrollApp.AssemblyInfoInputs.cache
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\obj\Debug\net6.0-windows\ScrollApp.AssemblyInfo.cs
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\obj\Debug\net6.0-windows\ScrollApp.csproj.CoreCompileInputs.cache
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\obj\Debug\net6.0-windows\ScrollApp.dll
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\obj\Debug\net6.0-windows\refint\ScrollApp.dll
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\obj\Debug\net6.0-windows\ScrollApp.pdb
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\obj\Debug\net6.0-windows\ScrollApp.genruntimeconfig.cache
+D:\Work\WIndows Form\Lab3\Task2\WinFormsApp1\ScrollApp\ScrollApp\obj\Debug\net6.0-windows\ref\ScrollApp.dll
